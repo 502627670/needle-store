@@ -1,0 +1,15 @@
+<view class="container">
+    <view class='about-wrap'>
+        <view class='title'>绣花针小店</view>
+        <view class='content'>
+            微信小程序商城
+        </view>
+        <view class="line"></view>
+        <view class="content">绣花针零售</view>
+        <view class="content">社区零售平台</view>
+        <view class="line"></view>
+        <view class='content'>
+            联系QQ：502627670
+        </view>
+    </view>
+</view>
