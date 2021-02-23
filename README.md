@@ -16,8 +16,7 @@
 
 微信小程序演示可搜索：绣花针小店
 
-![image](https://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3829364956&token=21674227)
-
+! [image] (https://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3829364956&token=21674227)
 
 ### 项目截图
 
